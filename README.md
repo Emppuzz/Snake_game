@@ -1,1 +1,1 @@
-Ylhäältä löyty snake pelin koodi. Peli on tehty Javalla.
+Ylhäältä löytyy snake pelin koodi. Peli on tehty Javalla.
