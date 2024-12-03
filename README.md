@@ -1,1 +1,1 @@
-Ylhäältä löytyy snake pelin koodi. Peli on tehty Javalla.
+There you can found snake game which has been done with Java.
