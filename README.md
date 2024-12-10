@@ -1,1 +1,1 @@
-There you can found snake game which has been done with Java.
+Here you can found snake game which has been done with Java.
